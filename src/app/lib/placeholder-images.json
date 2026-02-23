@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Dark luxury fintech background",
+      "imageUrl": "https://picsum.photos/seed/as-track-hero/1920/1080",
+      "imageHint": "dark luxury"
+    },
+    {
+      "id": "fintech-abstract",
+      "description": "Abstract financial lines",
+      "imageUrl": "https://picsum.photos/seed/as-track-abstract/800/600",
+      "imageHint": "abstract gold"
+    }
+  ]
+}
