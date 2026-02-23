@@ -37,13 +37,6 @@ export function LandingHero({ onGetStarted }: LandingHeroProps) {
             Get Started
             <ArrowRight className="ml-2 group-hover:translate-x-1 transition-transform" />
           </Button>
-          <Button 
-            variant="outline" 
-            size="lg" 
-            className="px-8 py-7 text-lg border-white/10 bg-white/5 hover:bg-white/10 text-white rounded-2xl"
-          >
-            Watch Demo
-          </Button>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-24 animate-fade-in-up [animation-delay:800ms]">
